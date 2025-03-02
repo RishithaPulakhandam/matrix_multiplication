@@ -1,6 +1,6 @@
-# Matrix Multiplication Programming Project 01
+# Matrix Multiplication Programming
 
-This programming project 01 includes a script for performing matrix multiplication in two ways: ordinary matrix multiplication and Strassen's matrix multiplication algorithm (matrix_multiplication.py). It is designed to work with square matrices where the dimension is a power of two, especially for Strassen's algorithm.I have submitted an analysis file (Programming_Assignment_Analysis_Rishitha_Pulakhandam.pdf),the original input file (LabStrassenInput.txt), given matrices in the assignment. The output for the original input (MatrixMultiplicationResults.txt), the test input file with self generated matrices that also contains matrices with errors (test_input.txt).The output for the self generated matrices (test_output.txt) 
+This programming project includes a script for performing matrix multiplication in two ways: ordinary matrix multiplication and Strassen's matrix multiplication algorithm (matrix_multiplication.py). It is designed to work with square matrices where the dimension is a power of two, especially for Strassen's algorithm.I have submitted an analysis file (Programming_Assignment_Analysis_Rishitha_Pulakhandam.pdf),the original input file (LabStrassenInput.txt), given matrices in the assignment. The output for the original input (MatrixMultiplicationResults.txt), the test input file with self generated matrices that also contains matrices with errors (test_input.txt).The output for the self generated matrices (test_output.txt) 
 
 ## Features
 
